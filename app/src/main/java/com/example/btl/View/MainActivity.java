@@ -1,6 +1,8 @@
-package com.example.btl;
+package com.example.btl.View;
 
 import android.os.Bundle;
+
+import com.example.btl.R;
 
 import androidx.appcompat.app.AppCompatActivity;
 
